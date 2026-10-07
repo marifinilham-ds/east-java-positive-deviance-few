@@ -1,6 +1,6 @@
 # Resilient Against the Odds: Positive-Deviant Regencies in East Java's Food-Energy-Water Nexus
 
-Residual-based machine learning to find regencies in East Java (Indonesia) whose rice productivity is well above what their biophysical and infrastructure conditions predict. Companion repository to an extended abstract prepared for YES Conference 2026 (WRI Indonesia).
+Residual-based machine learning to find regencies in East Java (Indonesia) whose rice productivity is well above what their biophysical and infrastructure conditions predict. Companion repository to an extended abstract submitted to YES Conference 2026 (WRI Indonesia).
 
 **Status:** work in progress. Results are exploratory and should be read together with the limitations below.
 
