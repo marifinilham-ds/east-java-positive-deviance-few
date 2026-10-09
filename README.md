@@ -1,4 +1,4 @@
-# Resilient Against the Odds: Positive-Deviant Regencies in East Java's Food-Energy-Water Nexus
+# Positive-Deviant Rice Regencies in East Java: Residual-Based Screening Using Satellite and Official Data
 
 Residual-based machine learning to find regencies in East Java (Indonesia) whose rice productivity is well above what their biophysical and infrastructure conditions predict. Companion repository to an extended abstract submitted to the 2nd YES Conference 2026 (WRI Indonesia).
 
@@ -67,6 +67,10 @@ The analysis itself runs from CSV files in this repository. The PostGIS database
 - Night lights capture activity and urbanisation more than energy access.
 - Only 29 regencies and four years; time-invariant predictors (cropland share, irrigation) act partly as regency identifiers.
 - Candidates are for follow-up (for example field studies of varieties, cropping intensity and water management), not proven models.
+
+## AI assistance
+
+An AI assistant (Claude) was used for code and repository checks and for grammar and spelling feedback on the abstract. The research design, analysis decisions, interpretation and the abstract text are the authors' own.
 
 ## License
 
