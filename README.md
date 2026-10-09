@@ -8,7 +8,7 @@ Residual-based machine learning to find regencies in East Java (Indonesia) whose
 
 Which regencies reach rice productivity well above model predictions, and how robust is that result to model choice, feature set and data vintage?
 
-## Data (2019-2022; 38 regencies/cities, main analysis uses the 29 kabupaten)
+## Data (2019-2022, 38 regencies/cities, main analysis uses the 29 kabupaten)
 
 | Variable | Source | File |
 |---|---|---|
